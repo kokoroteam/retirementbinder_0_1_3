@@ -8,5 +8,6 @@ dependencies:
   - matplotlib
   - matplotlib-inline
   - seaborn
+  - ipython
   - pip:
       - retirement
